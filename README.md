@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Michael Bösch 👋
 
-<!--
-**larrycoder123/larrycoder123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Business Informatics bachelor student at **WU Vienna** focusing on **Data Science, AI, and applied analytics**. I’m a curious builder who likes to explore new ideas fast, prototype with real data, and continuously level up my technical skills.
 
-Here are some ideas to get you started:
+## Currently working on
+- **Bachelor thesis on Retrieval-Augmented Generation (RAG)**
+- Building my first own **LLM** following the book *Build a Large Language Model (From Scratch)*
+- Building an internal **Sales tool** at **Lumos Student Consulting**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past work
+Check out my repositories - one project I’m especially proud of is my first hackathon build: **Motify**  
+→ [Motify backend repo](https://github.com/larrycoder123/motify-backend)
+
+## Tech Stack
+**Python, R, SQL · PyTorch · LangChain · FastAPI · Supabase · Jupyter · Google Cloud**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/michael-b%C3%B6sch-5ba8b238a/)
+📍 Vienna, Austria
