@@ -14,5 +14,5 @@ Check out my repositories - one project I’m especially proud of is my first ha
 ## Tech Stack
 **Python, R, SQL · PyTorch · LangChain · FastAPI · Supabase · Jupyter · Google Cloud**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/michael-b%C3%B6sch-5ba8b238a/)
+🔗 [LinkedIn](www.linkedin.com/in/michael-bösch-5ba8b238a)
 📍 Vienna, Austria
