@@ -9,10 +9,10 @@ I’m a Business Informatics bachelor student at **WU Vienna** focusing on **Dat
 
 ## Past work
 Check out my repositories - one project I’m especially proud of is my first hackathon build: **Motify**  
-→ [Motify backend repo](https://github.com/larrycoder123/motify-backend)
+→ [Motify Repo](https://github.com/larrycoder123/motify-backend)
 
 ## Tech Stack
 **Python, R, SQL · PyTorch · LangChain · FastAPI · Supabase · Jupyter · Google Cloud**
 
-🔗 [LinkedIn](www.linkedin.com/in/michael-bösch-5ba8b238a)
+🔗 [LinkedIn](https://linkedin.com/in/michael-bösch-5ba8b238a)
 📍 Vienna, Austria
