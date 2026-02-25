@@ -3,7 +3,7 @@
 I’m a Business Informatics bachelor student at **WU Vienna** focusing on **Data Science, AI, and applied analytics**. I’m a curious builder who likes to explore new ideas fast, prototype with real data, and continuously level up my technical skills.
 
 ## Currently working on
-- **Bachelor thesis on Retrieval-Augmented Generation (RAG)**
+- **Bachelor thesis on privacy/performance tradoffs in RAG systems**
 - Building my first own **LLM** following the book *Build a Large Language Model (From Scratch)*
 - Building an internal **Sales tool** at **Lumos Student Consulting**
 
